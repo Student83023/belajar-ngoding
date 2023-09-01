@@ -54,7 +54,8 @@ function nambahHurufBesarSetelahSpasi(kata) {
     return result;
 }
 
-console.log(nambahHurufBesarSetelahSpasi('Mikey Mouse Cat'))
+console.log(nambahHurufBesarSetelahSpasi('Mickey Mouse Cat'))
 console.log(nambahHurufBesarSetelahSpasi('Donald Duck Mouse'))
 console.log(nambahHurufBesarSetelahSpasi('Goofy Goober Duck'))
-
+// this is what happen when the brain freeze at 3am
+// oh btw where's the cat? OwO)
